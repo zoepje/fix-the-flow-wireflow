@@ -76,11 +76,11 @@ Met een Wireflow laat je zien hoe een interactie op een website eruit komt te zi
 
 Focus sprint 5 - De focus van deze sprint ligt op interactie en informatie architectuur van een website.
 
-Doel van deze opdracht: 
-* Je leert hoe je de User Flow kan tekenen in een Wireflow.
-
 Voor deze deeltaak geldt het gedragscriterium:
 * Probleemoplossend vermogen: Student schetst om gedachten en processen te verkennen.
+
+Doel van deze opdracht: 
+* Je leert hoe je de User Flow kan tekenen in een Wireflow.
 
 De Wireflow opdracht is *done* als
 
