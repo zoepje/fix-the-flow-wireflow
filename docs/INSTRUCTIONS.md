@@ -5,7 +5,7 @@ Opdracht: Schets de User flow in een Wireflow
 
 ## Context
 
-Deze leertaak hoort bij sprint 5 "Fix the Flow". Dit is een deeltaak die je individueel uitvoert.
+Deze deeltaak hoort bij sprint 5 "Fix the Flow". Dit is een deeltaak die je individueel uitvoert.
 
 In de workshop _S05W1-02-Userflow-Wireflows_ wordt behandeld wat een Wireflow is en hoe je een goede Wirelfow tekent. 
 
