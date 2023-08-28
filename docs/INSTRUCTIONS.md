@@ -9,18 +9,16 @@ Deze deeltaak hoort bij sprint 5 "Fix the Flow". Dit is een deeltaak die je indi
 
 In de workshop _S05W1-02-Userflow-Wireflows_ wordt behandeld wat een Wireflow is en hoe je een goede Wirelfow tekent. 
 
-Deze deeltaak hoort de leertaak:
-- [fix-the-flow-interactive-website](https://github.com/fdnd-task/fix-the-flow-interactive-website) 
+Deze deeltaak hoort bij de leertaak:
+- [Fix the flow - Interactive website](https://github.com/fdnd-task/fix-the-flow-interactive-website)
 
 ## Doel van deze opdracht
 
 Je leert hoe je de User Flow kan tekenen in een Wireflow.
 
-
 ## Werkwijze
 
 <img width="1251" alt="image" src="https://user-images.githubusercontent.com/1391509/205519942-33db706c-cce8-43c7-bf59-95bdecf8bbbc.png">
-
 
 Deze opdracht gaat over de [analyse](#analyseren), [ontwerp](#ontwerpen) en [test](#testen) fase van de DLC.
 
@@ -37,7 +35,6 @@ Voordat je een Wireflow gaat tekenen moet je goed beschrijven wie de gebruiker i
 
 - [How User Scenarios  Help to Improve Your UX](http://blog.usabilla.com/how-user-scenarios-help-to-improve-your-ux/)
 - [Wat is een User Story?](https://agilescrumgroup.nl/wat-is-een-user-story/)
-
 
 ### Ontwerpen
 
@@ -59,7 +56,6 @@ Hieronder staat een  voorbeeld van een Wireflow met de _User Story_ `Als bezoeke
 
 - [Wireframing User Flow with Wireflows](https://balsamiq.com/learn/articles/wireflows/)
 
-
 ### Testen
 
 Met een Wireflow laat je zien hoe een interactie op een website eruit komt te zien. Een Wireflow is voor jezelf, maar ook voor je team waar je mee samen werkt of om een product owner te laten zien hoe een interactie moet gaan werken. Andere mensen moeten je schets kunnen begrijpen. Het is belangrijk dat je netjes schetst, goede labels gebruikt en passende teksten schrijft. 
@@ -70,14 +66,9 @@ Met een Wireflow laat je zien hoe een interactie op een website eruit komt te zi
 2. Is de schets duidelijk voor een collega designer en developer? Schrijf op- of aanmerkingen bij je schets.
 3. Verwerk de feedback als dat nodig is.
 
-
-## Criteria
-
+## Definition of done
 
 Focus sprint 5 - De focus van deze sprint ligt op interactie en informatie architectuur van een website.
-
-Voor deze deeltaak geldt het gedragscriterium:
-* Probleemoplossend vermogen: Student schetst om gedachten en processen te verkennen.
 
 Doel van deze opdracht: 
 * Je leert hoe je de User Flow kan tekenen in een Wireflow.
