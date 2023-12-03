@@ -7,7 +7,7 @@ Opdracht: Teken een Wireflow van een interactief element
 
 Deze deeltaak hoort bij sprint 5 "Fix the Flow". Dit is een deeltaak die je individueel uitvoert.
 
-In de workshop _S05W1-01-Sprintplanning-interactie-user-flow-en-Wireflows_ wordt behandeld wat een Wireflow is en hoe je een goede Wirelfow tekent. 
+In de workshop _S05W1-01-Sprintplanning-interactie-en-Wireflows_ wordt behandeld wat een Wireflow is en hoe je een goede Wirelfow tekent. 
 
 Deze deeltaak hoort bij de leertaak:
 - [Fix the flow - Interactive website](https://github.com/fdnd-task/fix-the-flow-interactive-website)
