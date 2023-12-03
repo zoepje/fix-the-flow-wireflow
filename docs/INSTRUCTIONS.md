@@ -63,18 +63,13 @@ Met een Wireflow laat je zien hoe een interactie op een website eruit komt te zi
     
 #### Aanpak
 
-1. Laat de wireflow aan een klasgenoot zien en spreek de interactie door. 
-2. Is de schets duidelijk voor een collega designer en developer? Schrijf op- of aanmerkingen bij je schets.
+1. Laat de wireflow aan een tweedejaars zien en spreek de interactie door. 
+2. Is de schets duidelijk? Schrijf op- of aanmerkingen bij je schets.
 3. Verwerk de feedback als dat nodig is.
 
 ## Definition of done
 
-Focus sprint 5 - De focus van deze sprint ligt op interactie en informatie architectuur van een website.
-
-Doel van deze opdracht: 
-* Je leert hoe je de User Flow kan tekenen in een Wireflow.
-
-De Wireflow opdracht is *done* als
+Deze opdracht is *done* als
 
 - [ ] Het is duidelijk wie de gebruiker is 
 - [ ] Er is een _User Story_ geschreven van de interactie
