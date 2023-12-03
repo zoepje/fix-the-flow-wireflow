@@ -1,7 +1,7 @@
 
 # Fix the Flow - Wireflow
 
-Opdracht: Schets de User flow in een Wireflow
+Opdracht: Teken een Wireflow van een interactief element
 
 ## Context
 
@@ -14,11 +14,12 @@ Deze deeltaak hoort bij de leertaak:
 
 ## Doel van deze opdracht
 
-Je leert hoe je de User Flow kan tekenen in een Wireflow.
+Je leert hoe je User Flow kan tekenen in een Wireflow.
 
 ## Werkwijze
 
-<img width="1279" alt="image" src="https://github.com/fdnd-task/fix-the-flow-wireflow/assets/1391509/195c3e97-2f94-436d-a091-3559f77c958f">
+<img width="1355" alt="image" src="https://github.com/fdnd-task/fix-the-flow-wireflow/assets/1391509/2770bc90-9b92-4a16-8b5f-32efcd3b8027">
+
 
 
 Deze opdracht gaat over de [analyse](#analyseren), [ontwerp](#ontwerpen) en [test](#testen) fase van de DLC.
@@ -30,7 +31,7 @@ Voordat je een Wireflow gaat tekenen moet je goed beschrijven wie de gebruiker i
 #### Aanpak
 
 1. Schrijf eerst wie de gebruiker is van jouw opdracht en wat de gebruiker wil bereiken, wat is de _User Goal_?
-2. Schrijf een _User Story_ van de belangrijkste interactie: `Als <gebruiker> wil ik <functionaliteit> zodat <meerwaarde>`
+2. Schrijf een _User Story_ van een interactieg element: `Als <gebruiker> wil ik <functionaliteit> zodat <meerwaarde>`
 
 #### Materiaal
 
