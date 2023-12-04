@@ -10,6 +10,18 @@ Doordat dit over een hele buurt gaat zullen er veel initiatieven op de website s
 Voor deze sprint heb ik gekozen om aan deze user story te werken.
 * [Als buurtbewoner wil ik de buurtinitiativen kunnen filteren zodat ik makkelijker initiatieven kan vinden waar ik geinterreseert in ben.](https://github.com/zoepje/fix-the-flow-interactive-website/issues/5)
 
+## Wireflow
+Voor het filter systeem heb ik een wireflow geschets. Ik heb voor verschilende apparaten geschets.
+
+**Mobiel**
+![filter wireflow mobiel](https://github.com/zoepje/fix-the-flow-interactive-website/assets/144004461/a3d7cf8d-4bea-4e64-bc81-faad7570e10d)
+
+**Tablet**
+![filter wireflow tablet](https://github.com/zoepje/fix-the-flow-interactive-website/assets/144004461/f8c2d8d3-b71a-44f3-934d-9eeb72836ac2)
+
+**Labtop**
+![filter wireflow labtop](https://github.com/zoepje/fix-the-flow-interactive-website/assets/144004461/8941a7a8-16bb-4d48-bbb8-b709434b12ef)
+
 ## Licentie
 
 This project is licensed under the terms of the [MIT license](./LICENSE).
