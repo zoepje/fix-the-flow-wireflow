@@ -22,6 +22,11 @@ Voor het filter systeem heb ik een wireflow geschets. Ik heb voor verschilende a
 **Labtop**
 ![filter wireflow labtop](https://github.com/zoepje/fix-the-flow-interactive-website/assets/144004461/8941a7a8-16bb-4d48-bbb8-b709434b12ef)
 
+## Feedback
+Ziet er goed uit, netjes verschilende stappen naam gegeven. Probeer de volgende keer wat meer uit te leggen/ laten zien wat voor animatie je gebruikt.
+
+[Feedback in issue](https://github.com/zoepje/fix-the-flow-wireflow/issues/1)
+
 ## Licentie
 
 This project is licensed under the terms of the [MIT license](./LICENSE).
